@@ -2,10 +2,10 @@
 	{
 		"name": "Cossacks",
 		"unitType": "Gunpowder",
-		"replaces": "Musketman",
+		"replaces": "Marine",
 		"uniqueTo": "Ukraine",
 		"movement": 20,
-		"strength": 999,
+		"strength": 9999,
 		"cost": 200,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
